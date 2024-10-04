@@ -20,15 +20,8 @@ cards = {
     'King': [13, 10]
 }
 
-# cards = {
-#     'Ace': [1, 11],
-#     'Two': [2, 15],
-#     'Three': [3, 15],
-# }
 
 # Functions
-
-
 
 def deal_card():
     """This creates a list from the dictionary with card name, card number, and card value"""
